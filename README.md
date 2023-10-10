@@ -8,6 +8,8 @@ This repo is for the EMNLP 2023 conference paper [Empower Nested Boolean Logic v
 
 *BoolKill* is a new benchmark that measures language models' boolean logic capability. (u01 -> $u_{01}$, a58 -> $\tilde{u}_{58}$)
 
+To generate additional boolkill-like data, please refer to `data/gendata.ipynb`.
+
 
 
 ## Experiment
